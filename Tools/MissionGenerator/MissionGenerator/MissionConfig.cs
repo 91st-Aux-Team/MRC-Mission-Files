@@ -8,8 +8,8 @@ namespace MissionGenerator;
 
 public class MissionConfig
 {
-    public string Author { get; set; } = "501st Mission Builders";
-    public string Title { get; set; } = "501st Star Sim Mission";
-    public string Description { get; set; } = "A 501st Star Sim Mission File";
+    public string Author { get; set; } = "91st Mission Builders";
+    public string Title { get; set; } = "91st MRCMission";
+    public string Description { get; set; } = "A 91st MRC Mission File";
     public string Version { get; set; } = "V";
 }

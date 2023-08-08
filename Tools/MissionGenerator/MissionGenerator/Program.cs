@@ -30,10 +30,10 @@ namespace MissionGenerator
 
         [Option("-t|--title", Description = "Title format string. {0} is replaced with the composition name (without version numbers), " +
             "{1} is replaced with the mission name, and {2} is replaced with the version number.")]
-        private string TitleOutline { get; } = "501st Legion FunOp {0}: {1} {2}";
+        private string TitleOutline { get; } = "91st MRC FunOp {0}: {1} {2}";
 
         [Option("-d|--desc", Description = "Description format string. {0} is replaced with the version number.")]
-        private string DescOutline { get; } = "Official 501st Legion FunOP | All 501st, 212th, 91st, 101st, and 327th slots! | {0}";
+        private string DescOutline { get; } = "Official 91st MRC FunOP | All 501st, 212th, 91st, 101st, and 327th slots! | {0}";
 
         [Option("-m|--missions", Description = "Location of the missions.cfg file. Will use the default file if none is provided.")]
         private string MissionCfgPath { get; } = "missions.cfg";
@@ -150,7 +150,7 @@ namespace MissionGenerator
 
                     newMissionData.AddRange(new string[] {
                         @"{",
-                        @"	author=""501st Mission Builders"";",
+                        @"	author=""91st Mission Builders"";",
                         @"	briefing=0;",
                         @"	debriefing=0;",
                         @"	disabledAI=1;",
