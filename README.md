@@ -4,10 +4,6 @@
 
 Welcome to the official GitHub repository for the 91st MRC Clone Wars Unit's Arma 3 mission files! This repository contains a collection of carefully crafted missions designed for an immersive and engaging experience within the Star Wars universe. Whether you're a seasoned clone trooper or a fresh recruit, these missions offer a variety of scenarios to challenge your skills and teamwork.
 
-## About the 91st MRC Clone Wars Unit
-
-The 91st Mobile Reconnaissance Corps (MRC) Clone Wars Unit is a dedicated community of Arma 3 players who share a passion for the Star Wars universe. We specialize in creating realistic and immersive military simulations within the context of the Clone Wars era. Our unit focuses on teamwork, communication, and roleplay to deliver an authentic and enjoyable experience for all members.
-
 ## Mission Types
 
 In this repository, you'll find a diverse selection of missions that cater to different playstyles and objectives. Our mission designers have worked hard to create a range of scenarios, including but not limited to:
@@ -32,15 +28,11 @@ To play our missions, follow these steps:
 
 3. **Select Mission:** Browse through the available missions and select the one you want to play.
 
-4. **Enjoy:** Immerse yourself in the Clone Wars universe and collaborate with your fellow clone troopers to accomplish your mission objectives.
-
 ## Feedback and Support
 
 Your feedback is essential in helping us improve our missions and the overall experience. If you encounter any issues, have suggestions, or simply want to engage with our community, feel free to open an [issue](https://github.com/91st-Aux-Team/MRC-Mission-Files/issues) on this repository.
 
 For direct support and discussions, you can also join our [Discord server](https://discord.gg/zqn5aq9) and connect with fellow members.
-
-Thank you for being a part of the 91st MRC Clone Wars Unit community! May the Force be with you on the battlefield.
 
 *Note: This project is not affiliated with or endorsed by Bohemia Interactive or Lucasfilm Ltd. This is a fan-created project for entertainment purposes.*
 
