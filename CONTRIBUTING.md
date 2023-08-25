@@ -1,4 +1,4 @@
-# Contributing to 91st MRC Clone Wars Unit Arma 3 Mission Files
+# Contributing to 91st MRC's Mission Fies
 
 We appreciate your interest in contributing to the 91st MRC Clone Wars Unit Arma 3 Mission Files repository! Your contributions help us improve the missions and enhance the experience for all our players. Here's a step-by-step guide to get you started:
 
@@ -32,7 +32,7 @@ We appreciate your interest in contributing to the 91st MRC Clone Wars Unit Arma
 
 The repository maintainers will review your changes and may provide feedback or request modifications. You can continue to make updates to your pull request by pushing changes to your branch in your forked repository.
 
-Thank you for contributing to the 91st MRC Clone Wars Unit Arma 3 Mission Files repository! Your efforts help us create a better experience for everyone.
+Thank you for contributing to the 91st! Your efforts help us create a better experience for everyone.
 
 ---
-*Last updated: August 7th, 2023*
+*Last updated: August 25th, 2023*
