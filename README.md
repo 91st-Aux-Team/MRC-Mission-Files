@@ -2,7 +2,7 @@
 
 ![91st MRC Logo](logo.png)
 
-Welcome to the official GitHub repository for the 91st MRC Clone Wars Unit's Arma 3 mission files! This repository contains a collection of carefully crafted missions designed for an immersive and engaging experience within the Star Wars universe. Whether you're a seasoned clone trooper or a fresh recruit, these missions offer a variety of scenarios to challenge your skills and teamwork.
+Welcome to the official GitHub repository for the 91st's Mission Files! This repository contains a collection of missions, compositions, and scripts for mission makers and zeuses.
 
 ## Mission Types
 
