@@ -12,9 +12,14 @@ GitHub is a website that hosts Git repositories. It allows users to collaborate 
 
 Before you can start using Git, you need to create an account on GitHub. Go to [github.com](https://github.com/join) and sign up for an account. You will need to verify your email address before you can use your account.
 
+![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/6b874618-9971-4fa2-9516-bb2904dd80de)
+
+
 ## Install Git
 
 Git is available for Windows, Mac, and Linux. You can download the latest version of Git from [git-scm.com](https://git-scm.com/downloads). Follow the instructions to install Git on your computer.
+
+![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/0e5fe317-e966-4f60-b272-ddb887363c59)
 
 ## Configure Git
 
