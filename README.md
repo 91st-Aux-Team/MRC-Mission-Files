@@ -9,7 +9,6 @@ Welcome to the official GitHub repository for the 91st's Mission Files! This rep
 - **Compositions** - A collection of pre-built compositions that can be used to quickly populate a mission with objects and units.
 - **Missions** - A variety of missions that can be played in singleplayer or multiplayer. These missions are designed to be played with the 91st MRC modpack, but can be played with other mods as well.
 - **Scripts** - A collection of scripts that can be used to enhance operations & assist the zeuses.
-- **Tools** - A collection of tools used to assist in the creation of missions.
 
 ## Contributing
 

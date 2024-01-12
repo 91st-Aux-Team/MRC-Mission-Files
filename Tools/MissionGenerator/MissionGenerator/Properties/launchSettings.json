@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "MissionGenerator": {
-      "commandName": "Project",
-      "commandLineArgs": "\"Missions/Framework/\" \"Compositions/Generator/\" \"Missions/Pending/\" --title \"91st MRC FunOp {0}: {1} {2}\" --desc \"Official 91st MRC FunOP | All 501st, 212th, 91st, 101st, and 327th slots! | {0}\" --missions \"Missions/missions.cfg\" --latest",
-      "workingDirectory": "..\\..\\..\\"
-    }
-  }
-}
