@@ -2,6 +2,9 @@
 
 We appreciate your interest in contributing to the 91st MRC Clone Wars Unit Arma 3 Mission Files repository! Your contributions help us improve the missions and enhance the experience for all our players. Here's a step-by-step guide to get you started:
 
+## Git & GitHub Setup
+
+If you haven't already, you'll need to set up Git and GitHub on your computer. Follow the instructions in [GIT_SETUP.md](GIT_SETUP.md) to get started.
 
 ## Cloning the Repository
 
