@@ -4,7 +4,7 @@
 
 Welcome to the official GitHub repository for the 91st's Mission Files! This repository contains a collection of missions, compositions, and scripts for mission makers and zeuses.
 
-## Mission Types
+## Scenario Building Tools
 
 - **Compositions** - A collection of pre-built compositions that can be used to quickly populate a mission with objects and units.
 - **Missions** - A variety of missions that can be played in singleplayer or multiplayer. These missions are designed to be played with the 91st MRC modpack, but can be played with other mods as well.
@@ -20,9 +20,11 @@ To play our missions, follow these steps:
 
 1. **Clone or Download:** Click the "Code" button on the repository and choose either "Download ZIP" or use Git to clone the repository to your Arma 3 missions directory.
 
-2. **Launch Arma 3:** Open Arma 3 and navigate to the "Singleplayer" or "Multiplayer" section, depending on the mission type.
+   ![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/063b4c8e-63ff-4d74-9fbd-d42767830c2c)
 
-3. **Select Mission:** Browse through the available missions and select the one you want to play.
+3. **Adding mission files:** Open Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/missions & drag the desired mission folder in.
+
+4. **Adding composition files:** Open Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/compositions & drag the desired composition folder in.
 
 ## Feedback and Support
 
