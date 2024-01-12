@@ -8,6 +8,8 @@ If you haven't already, you'll need to set up Git and GitHub on your computer. F
 
 ## Cloning the Repository
 
+ If you are a member of the Mission Makers Team then you'll be able to clone the main repository and don't need to make a fork. So ignore Fork the repository and just clone this [link](https://github.com/91st-Aux-Team/MRC-Mission-Files.git). If you're not in that team then follow all steps below.
+
 1. **Fork the Repository:** Click the "Fork" button at the top right corner of this repository's page. This creates a copy of the repository in your own GitHub account.
 
    ![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/f762f43b-6afa-4b78-bdcd-81a545168680)
