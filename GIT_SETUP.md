@@ -14,20 +14,10 @@ Before you can start using Git, you need to create an account on GitHub. Go to [
 
 ![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/6b874618-9971-4fa2-9516-bb2904dd80de)
 
+## Install Github Desktop
 
-## Install Git
+GitHub Desktop is a free application that makes it easy to work with Git repositories. It provides a graphical interface for managing your repositories and making changes to files. You can download GitHub Desktop from [desktop.github.com](https://desktop.github.com/).
 
-Git is available for Windows, Mac, and Linux. You can download the latest version of Git from [git-scm.com](https://git-scm.com/downloads). Follow the instructions to install Git on your computer.
+## Configure GitHub Desktop
 
-![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/0e5fe317-e966-4f60-b272-ddb887363c59)
-
-## Configure Git
-
-After installing Git, you need to configure it with your name and email address. Open a terminal window and run the following commands:
-
-```bash
-git config --global user.name "Your Name"
-git config --global user.email "Your Email"
-```
-
-Replace "Your Name" and "Your Email" with your actual name and email address. These settings will be used when you commit changes to your repository.
+After installing GitHub Desktop, you will need to configure it to work with your GitHub account. Open the application and click on "File" -> "Options." Enter your GitHub username and password in the fields provided. You can also choose to enable two-factor authentication if you wish.
