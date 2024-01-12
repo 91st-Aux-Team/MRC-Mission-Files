@@ -4,7 +4,7 @@ We appreciate your interest in contributing to the 91st MRC Clone Wars Unit Arma
 
 ## Cloning the Repository
 
-1. **Fork the Repository:** Click the "Fork" button at the top right corner of this repository's page. This creates a copy of the repository in your own GitHub account.
+1. **Fork the Repository:** Click the "Fork"  button at the top right corner of this repository's page. This creates a copy of the repository in your own GitHub account.
 
 2. **Clone the Fork:** Open [GitHub Desktop](https://desktop.github.com/) and click on the "Clone a repository from the internet" option. Select your forked repository from the list and choose a directory on your computer to save the local copy.
 
@@ -32,7 +32,7 @@ We appreciate your interest in contributing to the 91st MRC Clone Wars Unit Arma
 
 The repository maintainers will review your changes and may provide feedback or request modifications. You can continue to make updates to your pull request by pushing changes to your branch in your forked repository.
 
-Thank you for contributing to the 91st MRC Clone Wars Unit Arma 3 Mission Files repository! Your efforts help us create a better experience for everyone.
+Thank you for contributing to the 91st Mission Files repository! Your efforts help us create a better experience for everyone.
 
 ---
-*Last updated: August 7th, 2023*
+*Last updated: January 12th, 2024*
