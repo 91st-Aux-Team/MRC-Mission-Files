@@ -2,7 +2,11 @@
 
 ![91st MRC Logo](logo.png)
 
+<<<<<<< HEAD
 Welcome to the official GitHub repository for the 91st MRC mission files! This repository contains a collection of carefully crafted missions designed for an immersive and engaging experience within the Star Wars universe. Whether you're a seasoned clone trooper or a fresh recruit, these missions offer a variety of scenarios to challenge your skills and teamwork.
+=======
+Welcome to the official GitHub repository for the 91st's Mission Files! This repository contains a collection of missions, compositions, and scripts for mission makers and zeuses.
+>>>>>>> ae99b0a53c03dfa032cccc35ee5dd14ac93b3492
 
 ## Mission Types
 
@@ -15,13 +19,24 @@ Welcome to the official GitHub repository for the 91st MRC mission files! This r
 
 We welcome contributions from our community members to enhance our mission offerings. If you have a creative mission idea, improvements to existing missions, or bug fixes, please feel free to submit a pull request. Make sure to follow our [Contribution Guidelines](CONTRIBUTING.md) to ensure a smooth collaboration process.
 
+<<<<<<< HEAD
+=======
+## Installation
+
+To play our missions, follow these steps:
+
+1. **Clone or Download:** Click the "Code" button on the repository and choose either "Download ZIP" or use Git to clone the repository to your Arma 3 missions directory.
+   
+2. **Launch Arma 3:** Open Arma 3 and navigate to the "Singleplayer" or "Multiplayer" section, depending on the mission type.
+
+3. **Select Mission:** Browse through the available missions and select the one you want to play.
+
+>>>>>>> ae99b0a53c03dfa032cccc35ee5dd14ac93b3492
 ## Feedback and Support
 
 Your feedback is essential in helping us improve our missions and the overall experience. If you encounter any issues, have suggestions, or simply want to engage with our community, feel free to open an [issue](https://github.com/91st-Aux-Team/MRC-Mission-Files/issues) on this repository.
 
 For direct support and discussions, you can also join our [Discord server](https://discord.gg/zqn5aq9) and connect with fellow members.
-
-Thank you for being a part of the 91st MRC Clone Wars Unit community! May the Force be with you on the battlefield.
 
 *Note: This project is not affiliated with or endorsed by Bohemia Interactive or Lucasfilm Ltd. This is a fan-created project for entertainment purposes.*
 
