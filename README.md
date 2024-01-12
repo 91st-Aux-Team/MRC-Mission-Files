@@ -22,9 +22,9 @@ To play our missions, follow these steps:
 
    ![image](https://github.com/91st-Aux-Team/MRC-Mission-Files/assets/54691085/063b4c8e-63ff-4d74-9fbd-d42767830c2c)
 
-3. **Adding mission files:** Open Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/missions & drag the desired mission folder in.
+3. **Adding mission files:** Open `Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/mpmissions` & drag the desired mission folder in.
 
-4. **Adding composition files:** Open Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/compositions & drag the desired composition folder in.
+4. **Adding composition files:** Open `Documents/Arma 3 - Other Profiles/TheProfileYouWantTheMissionOn/compositions` & drag the desired composition folder in.
 
 ## Feedback and Support
 
